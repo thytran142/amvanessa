@@ -1,3 +1,7 @@
+---
+layout: customize
+---
+
 <img src="assets/img/avatar.jpeg" style="width:20%;margin:auto;">
 <h3>Hello, I'm Vanessa Tran</h3>
 <p>
